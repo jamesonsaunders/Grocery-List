@@ -19,6 +19,8 @@ npm-debug.log*
 .tmp/
 .versions/
 coverage/
+dist/
+.firebase/
 www/
 node_modules/
 tmp/

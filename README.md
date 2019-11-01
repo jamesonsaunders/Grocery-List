@@ -1,10 +1,10 @@
 # Grocery List
 
-DEMO: https://grocerylist.jamibot.com
+DEMO: https://grocerylist.jamesonsaunders.com
 
 
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [1,000 Subs LIVESTREAM Thank You
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [1,000 Subs LIVESTREAM Thank You
 ](https://youtu.be/3nSnyLHM7zQ).
 
 [![1,000 Subs LIVESTREAM Thank You
@@ -12,7 +12,7 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [1,00
 
 The main topic for the livestream was creating this grocery list app.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development tutorials.
 
 ## Installation
 
